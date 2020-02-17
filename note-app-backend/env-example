@@ -1,0 +1,8 @@
+DB_NAME=nest-starter
+DB_HOST=localhost
+DB_PASSWORD=admin
+DB_USER=nest-starter
+ES_HOST=localhost
+ES_USER=admin
+ES_PASSWORD=changeit
+ES_STREAM=nest-starter
